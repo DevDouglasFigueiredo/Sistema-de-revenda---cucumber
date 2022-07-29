@@ -18,7 +18,7 @@ infomações de um determinado veiculo encontrando pela letra inicial do carro
 - A interface da tabela dos veiculos tem a coluna de status, onde o vendedor 
 poderá colocar a situação atual do veiculo, consiste nos botões de: vendido, 
 disponivel e em analise. Tendo tambem a opção de deletar a linha da tabela 
-com o botao delete, caso o carro ja tiver sido vendido
+com o botão delete, caso o carro ja tiver sido vendido
 
 - O usario poderá adicionar um novo carro na tabela informando todas as
 especificações obrigatórias do carro como: modelo, fabricante, ano e etc... 
@@ -48,7 +48,7 @@ O plano de testes abrange todas as funcionalidades descritas acima. Esse
 plano de testes exclui a automatização de teste ate o momento
 Testes Manuais: Todas as funcionalidades serão testadas manualmente pelo 
 time de qualidade seguindo a documentação de Cenários de teste.
-Teste de Performance: Será feito todos os teste de performance atraves da 
+Teste de Performance: Será feito todos os teste de performance através da 
 ferramente Jmeters
 
 <h2>6. Relatórios de teste com a ferramenta Qase</h2>
