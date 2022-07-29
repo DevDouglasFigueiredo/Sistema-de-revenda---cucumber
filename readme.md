@@ -10,7 +10,7 @@
 <h2> 2. Resumo do Projeto </h2>
 
 - O SRCJS é um sistema de gerenciamento de veiculos, que tem as principais 
-especificações dos veiculos em estoque como, modelo, fabicante, ano, 
+especificações dos veiculos em estoque como, modelo, fabricante, ano, 
 combustivel, cambio, quilometragem, valor comprado, valor de venda.
 Contando ainda o campo de filtro, onde o usuario pode encontrar as 
 infomações de um determinado veiculo encontrando pela letra inicial do carro
